@@ -3,7 +3,7 @@
 
 <img align="right" alt="MasterHead" width="400" src="https://i.giphy.com/AtemeKRsPRVESJ8zRq.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnaxgithub&label=Profile%20views&color=0e75b6&style=flat" alt="dotslashkrishna" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dotslashkrishna&label=Profile%20views&color=0e75b6&style=flat" alt="dotslashkrishna" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning** and **Deep Learning Techniques**.
 - 💬 Ask me about **Python, TensorFlow, Computer Vision, and more**.
