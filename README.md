@@ -3,7 +3,7 @@
 
 <img align="right" alt="MasterHead" width="400" src="https://i.giphy.com/AtemeKRsPRVESJ8zRq.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnaxgithub&label=Profile%20views&color=0e75b6&style=flat" alt="krishnaxgithub" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnaxgithub&label=Profile%20views&color=0e75b6&style=flat" alt="dotslashkrishna" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning** and **Deep Learning Techniques**.
 - 💬 Ask me about **Python, TensorFlow, Computer Vision, and more**.
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/krishnashr" target="blank">
+  <a href="https://linkedin.com/in/krishnashar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnashr" height="30" width="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/krishnaxgfg" target="blank">
@@ -53,14 +53,14 @@
 
 <h2 align="center">⚡ Current Stats ⚡</h2>
 <div align="center">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=krishnaxgithub&count_private=true&theme=react&border_radius=10" alt="streak stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=krishnaxgithub&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=dotslashkrishna&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dotslashkrishna&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub stats" />
 </div>
 
 <br>
 
 <h2 align="center">Top Languages</h2>
 <div align="center">
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnaxgithub&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=dotslashkrishna&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
 </p>
